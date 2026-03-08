@@ -1,0 +1,53 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js build
+.next/
+out/
+
+# Production build
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Coverage
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# Docker
+docker-data/
+
+# MongoDB local data (if used)
+data/
+
+# Package lock (optional if you want reproducible installs)
+# package-lock.json
+
+# Misc
+*.pid
+*.seed
+*.pid.lock
